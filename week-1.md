@@ -24,10 +24,10 @@ Key discussion points included:
 ### 1. The Control Plane and Bedrock
 In Kubernetes, the control plane (api-server, etcd, scheduler, controller manager) maintains the desired state of the entire cluster. If etcd loses consensus or the API server fails, worker nodes cannot maintain workload health.
 
-Spiritual life operates under the same principle. Christ acts as the chief cornerstone (Ephesians 2:20) and bedrock (Helaman 5:12). Our personal "control plane"—daily scripture study, prayer, keeping covenants, and reflecting on core doctrines—maintains alignment between our current state and our desired spiritual state. When trials create drift, a secure spiritual baseline brings us back into balance.
+Spiritual life operates under the same principle. Christ acts as the chief cornerstone (Ephesians 2:20) and bedrock (Helaman 5:12). Our personal "control plane" daily scripture study, prayer, keeping covenants, and reflecting on core doctrines maintains alignment between our current state and our desired spiritual state. When trials create drift, a secure spiritual baseline brings us back into balance.
 
 ### 2. Primitives Before Orchestration
-Attempting to deploy complex distributed microservices without understanding basic networking or storage persistent volumes leads to fragile infrastructure. Similarly, complex gospel applications—such as navigating doubt, serving others through heavy adversity, or leading with Christlike love—depend on mastery of fundamental gospel primitives: faith, repentance, and intentional obedience. 
+Attempting to deploy complex distributed microservices without understanding basic networking or storage persistent volumes leads to fragile infrastructure. Similarly, complex gospel applications—such as navigating doubt, serving others through heavy adversity, or leading with Christlike love depend on mastery of fundamental gospel primitives: faith, repentance, and intentional obedience. 
 
 As Nephi warned in 2 Nephi 28:28, building on a shallow foundation makes one vulnerable to shifting winds. A deep mastery of basic principles makes advanced problem-solving possible in both software architecture and discipleship.
 
